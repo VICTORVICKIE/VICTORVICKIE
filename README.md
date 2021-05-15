@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/VICTORVICKIE/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTORVICKIE&show_icons=true&theme=tokyonight&hide=issues,)" />
-</a>&nbsp;
+</a>
+
 <a href="https://github.com/VICTORVICKIE/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VICTORVICKIE&layout=compact&theme=tokyonight" />
 </a>
