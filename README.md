@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 -  💬 Ask me about Aerodynamics, Avionics, Python, Kivy, Blender
 -  :man: Pronouns: He / Him
 
-<a href="https://github.com/VICTORVICKIE/VICTORVICKIE/README.md">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTORVICKIE&show_icons=true&theme=tokyonight&hide=issues,"/>
 </a>
-<a href="https://github.com/VICTORVICKIE/VICTORVICKIE/README.md">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VICTORVICKIE&layout=compact&theme=tokyonight"/>
 </a>
