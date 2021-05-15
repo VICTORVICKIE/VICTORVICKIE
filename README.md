@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm VIGNESH KUMAR S
 
 <!--
 **VICTORVICKIE/VICTORVICKIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Aeronautics
+- 🔭 I’m currently working on Kivy Android App
+-  💬 Ask me about Aerodynamics, Avionics, Python, Kivy, Blender
+-  😄 Pronouns: He / Him
+
+<a href="https://github.com/VICTORVICKIE/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTORVICKIE&show_icons=true&theme=tokyonight&hide=issues,)" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/VICTORVICKIE/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VICTORVICKIE&layout=compact&theme=tokyonight" />
+</a>
