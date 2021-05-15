@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -  :man: Pronouns: He / Him
 
 <a href="https://github.com/VICTORVICKIE/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTORVICKIE&show_icons=true&theme=tokyonight&hide=issues,)" width="350"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTORVICKIE&show_icons=true&theme=tokyonight" width="350"/>
 </a>
 <br>
 <a href="https://github.com/VICTORVICKIE/github-readme-stats">
