@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Aeronautics
+- :books: I’m currently learning Aeronautics
 - 🔭 I’m currently working on Kivy Android App
 -  💬 Ask me about Aerodynamics, Avionics, Python, Kivy, Blender
--  😄 Pronouns: He / Him
+-  :man: Pronouns: He / Him
 
 <a href="https://github.com/VICTORVICKIE/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTORVICKIE&show_icons=true&theme=tokyonight&hide=issues,)" />
