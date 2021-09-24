@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :books: I’m currently learning Aeronautics
-- 🔭 I’m currently working on Kivy Android App
+- 🔭 I’m currently working on Portfolio & Kivy Android App
 -  💬 Ask me about Aerodynamics, Avionics, Python, Kivy, Blender
 -  :man: Pronouns: He / Him
 
