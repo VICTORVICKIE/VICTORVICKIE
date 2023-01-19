@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 -  :man: Pronouns: He / Him
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTORVICKIE&show_icons=true&theme=tokyonight&hide=issues,"/>
+  <img align="center" src="https://readme-stats.clckblog.space/api?username=VICTORVICKIE&show_icons=true&theme=tokyonight&hide=issues,"/>
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VICTORVICKIE&layout=compact&theme=tokyonight&hide=scss,css"/>
+  <img align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=VICTORVICKIE&layout=compact&theme=tokyonight&hide=scss,css"/>
 </a>
