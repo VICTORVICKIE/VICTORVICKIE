@@ -23,5 +23,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://readme-stats.clckblog.space/api?username=VICTORVICKIE&show_icons=true&theme=tokyonight&hide=issues,"/>
 </a>
 <a href="#">
-  <img align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=VICTORVICKIE&layout=compact&theme=tokyonight&hide=scss,css"/>
+  <img align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=VICTORVICKIE&layout=compact&theme=tokyonight&hide=scss,css,html"/>
 </a>
