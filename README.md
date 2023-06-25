@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - :books: I’m System Engineer at TCS
 - 🔭 I’m currently learning rust
--  💬 Ask me about Aerodynamics, Python, Svelte/Kit, Blender
+-  💬 Ask me about Aerodynamics, Python, TS/JS, Svelte/Kit, Blender
 -  :man: Pronouns: He / Him
 
 <a href="#">
