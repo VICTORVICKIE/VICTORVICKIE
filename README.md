@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently learning rust
 -  💬 Ask me about Aerodynamics, Python, TS/JS, Svelte/Kit, Blender
 -  :man: Pronouns: He / Him
+-  ⚡ Portfolio - https://vk.is-a.dev
 
 <a href="#">
   <img align="center" src="https://readme-stats.clckblog.space/api?username=VICTORVICKIE&show_icons=true&theme=tokyonight&hide=issues,"/>
